@@ -1,0 +1,42 @@
+.btn-success ,.bg-success{
+  background: linear-gradient(45deg,black,limegreen);
+}
+
+.btn-warning, .bg-warning{
+  background: linear-gradient(45deg,black,orange);
+}
+
+.btn-danger, .bg-danger{
+  background: linear-gradient(45deg,red,black);
+}
+
+.btn-primary,.bg-primary{
+  background: linear-gradient(45deg,black,blueviolet);
+}
+.bg-secondary{
+  background: linear-gradient(45deg,yellow,rgb(59, 10, 29));
+}
+
+.table tbody tr td{
+  font-weight: bold;
+}
+
+.btn-dark, .bg-dark{
+  background: linear-gradient(45deg,black,darkslategray);
+}
+
+.contact-img{
+  margin-top: -70px;
+}
+
+.landing-page{
+background:white url('assets/bg-image2.jpg') no-repeat scroll center;
+height:100vh;
+background-size: cover;
+color: white;
+}
+
+.wrapper{
+  background-color: rgba(0,0,0, 0.5);
+  height: 100%;
+}
